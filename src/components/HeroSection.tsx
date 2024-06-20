@@ -17,9 +17,17 @@ function HeroSection() {
         fill="white"
       />
       <div className='p-4 relative z-10 w-full text-center'>
-                <h1
-                  className="mt-20 md:mt-[100px] text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400  "
-                >Welcome to Raj Tent House</h1>
+      <h1
+  className="
+    mt-20 md:mt-[100px]
+    text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl
+    font-bold
+    bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400
+  "
+>
+  Welcome To Raj Tent House
+</h1>
+
                
                 <p
                  className="mt-7 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto"
@@ -45,7 +53,7 @@ function HeroSection() {
     </p>
     <div className=' flex flex-row items-center gap-[20px] m-auto justify-center  '>
     
-      <a href="https://wa.me/917828896244?text=Hello How can I help you ?" target="_blank">
+      <a href="https://wa.me/917828896244?text=Hello Raj Tent House ?" target="_blank">
       <div className=' relative h-[50px] w-[50px] '>
       <Image
       src={whatsapp}
