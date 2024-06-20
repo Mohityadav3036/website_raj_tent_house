@@ -1,7 +1,7 @@
 import React from 'react';
 import Aboutphoto from './Aboutphoto';
 import img from "../image/image3.jpg";
-import img1 from "../image/papa.JPG"
+import img1 from "../image/p.jpg"
 
 function About() {
   return (
