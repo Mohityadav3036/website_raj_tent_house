@@ -11,7 +11,7 @@ function Navbar({ className }: { className?: string }) {
     <div 
     className={cn("fixed top-10 inset-x-0 max-w-2xl mx-auto z-50", className)}
     >
-     <h1 className="text-3xl font-bold w-max m-auto mb-10 animate-color-change relative">RAJ TENT HOUSE</h1>
+     <h1 className="text-3xl font-bold w-max m-auto mb-10 animate-color-change relative text-gray-400">RAJ TENT HOUSE</h1>
 
          <Menu setActive={setActive} >
                    <Link href={"/"}>

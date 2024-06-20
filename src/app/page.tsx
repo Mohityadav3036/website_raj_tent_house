@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen overflow-x-hidden flex-col items-center justify-between antialiased bg-black/[0.96] p-24">
      <HeroSection/>
-     <div>
+     <div className=" text-gray-400" >
       <h1 className="relative mt-10 text-4xl md:text-6xl lg:text-7xl mb-10 font-bold w-full m-auto flex justify-center items-center">GALLERY</h1>
      </div>
      <div className="flex flex-row flex-wrap m-auto justify-center w-full gap-[20px] ">

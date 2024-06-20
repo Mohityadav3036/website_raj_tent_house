@@ -15,8 +15,7 @@ interface FeaturedCoursesProps {
 const FeaturedCourses: React.FC<FeaturedCoursesProps> = ({ img }) => {
   return (
     <div className=" flex flex-col">
-    
-
+     
         <div >
         <BackgroundGradient className="rounded-[22px] max-w-sm p-4 sm:p-10 bg-white dark:bg-zinc-900">
           <div  className="relative w-[300px] h-[200px]">
