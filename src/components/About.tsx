@@ -32,7 +32,7 @@ const About: React.FC = () => {
             With more than 10 years of industry expertise, Raj Tent House continues to innovate. We now offer an expanded range of services including the latest in <span className="text-green-500 font-bold">light decoration and state-of-the-art DJ sound systems</span>. These new offerings complement our signature tent setups, ensuring your event is both stunning and seamless.
           </p>
           <p className="mb-4">
-            At Raj Tent House, our mission is simple: to exceed your expectations every time. Whether it's a <span className="text-green-500 font-bold">wedding, birthday, or corporate event</span>, our dedicated team is here to make your vision a reality. Explore our services and discover why Raj Tent House is your partner in creating unforgettable experiences.
+            At Raj Tent House, our mission is simple: to exceed your expectations every time. Whether its a <span className="text-green-500 font-bold">wedding, birthday, or corporate event</span>, our dedicated team is here to make your vision a reality. Explore our services and discover why Raj Tent House is your partner in creating unforgettable experiences.
           </p>
         </div>
       </div>
