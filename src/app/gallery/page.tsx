@@ -18,6 +18,7 @@ import imgs1 from "../../image/sound1.jpg"
 import imgs2 from "../../image/sound2.jpeg"
 import imgs3 from "../../image/sound3.jpg"
 import imgl1 from "../../image/light.jpg"
+import Footer from '@/components/Footer'
 function page() {
   return (
     <div className='relative mt-[200px] '>
@@ -42,6 +43,7 @@ function page() {
       <Galleryphoto img={imgs2}/>
       <Galleryphoto img={imgs3}/>
     </div>
+    <Footer/>
     </div>
     
   )
